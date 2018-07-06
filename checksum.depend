@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530894878 source:g:\ccode\checksum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
